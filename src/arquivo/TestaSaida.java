@@ -17,11 +17,13 @@ public class TestaSaida {
 		bw.write("caelum");
 		bw.close();
 
-		// fo muito mais facil
+		// forms muito mais facil
 		Scanner scanner = new Scanner(System.in);
 		PrintStream ps = new PrintStream("arquivo.txt");
 		while (scanner.hasNextLine()) {
 			ps.println(scanner.nextLine());
 		}
+		scanner.close();
+		ps.close();
 	}
 }
