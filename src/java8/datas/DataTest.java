@@ -11,7 +11,7 @@ public class DataTest {
 
 	public static void main(String[] args) {
 
-		// litar todos os dias do mes
+		// listar todos os dias do mes
 		int ano = 2014;
 		int mes = 5;
 		YearMonth anoMes = YearMonth.of(ano, mes);
