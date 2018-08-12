@@ -18,7 +18,5 @@ public class TestaEntrada {
 			s = br.readLine();
 		}
 		br.close();
-		
-		
 	}
 }
