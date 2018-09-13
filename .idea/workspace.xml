@@ -1,89 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/deitel/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/AccountTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Analysis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/ClassAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/CrescimentoMundial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Criptografia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/JurosCompostos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Palindromo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Quadrado.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Soma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/Dialog1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/DrawPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/DrawPanelTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/NameDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/arquivo/TestaEntrada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/arquivo/TestaSaida.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/collections/CollectionsLib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaCollection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/construtores/TestaConstrutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/paralelo/Programa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/paralelo/Teste.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/prova/TesteA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Servidor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Cliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Recebedor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Servidor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/TrataCliente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/strings/StringLib.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/strings/TestaStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/ternario/TestaCondicional.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/thread/ClasseAnomina.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/thread/GeraNumero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/thread/TestaThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/ProduzMensagens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/RegistroDeMensagens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/arrays/ArrayForEachTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1$Fatorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print$GerarNumeroAleatorio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Filtrando.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/Formula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Defaulable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/DefaultableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FunctionalInterfaceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$GreetingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2$GreetingService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/map/Mapping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/optional/Curso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/optional/Matricula.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/optional/OptionalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/Sorting$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/Sorting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams$Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/time/DatasImportantesNaoTestavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/time/TimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/trywithresources/TryWithResources.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java7/strings/TestaStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java7/strings/TestaStrings.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/deitel/problemas/Mystery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            <state relative-caret-position="192">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -190,8 +108,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536876178770" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536876358753" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,8 +200,8 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35008374" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966556" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3484087" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
@@ -317,8 +235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/deitel/problemas/Mystery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        <state relative-caret-position="192">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
