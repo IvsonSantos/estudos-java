@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/deitel/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Analysis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/ClassAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/CrescimentoMundial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Criptografia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/JurosCompostos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Palindromo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Quadrado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/Dialog1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/DrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/DrawPanelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/NameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arquivo/TestaEntrada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arquivo/TestaSaida.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/CollectionsLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaCollection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/construtores/TestaConstrutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/paralelo/Programa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/paralelo/Teste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/TesteA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Servidor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Recebedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Servidor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/TrataCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/StringLib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/TestaStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/ternario/TestaCondicional.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/ClasseAnomina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/GeraNumero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/TestaThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/ProduzMensagens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/RegistroDeMensagens.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/arrays/ArrayForEachTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1$Fatorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print$GerarNumeroAleatorio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Filtrando.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/Formula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Defaulable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/DefaultableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FunctionalInterfaceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$MathOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2$GreetingService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/TestLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/map/Mapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/optional/Curso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/optional/Matricula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/optional/OptionalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/Sorting$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams$Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/time/DatasImportantesNaoTestavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/time/TimeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/trywithresources/TryWithResources.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java7/strings/TestaStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java7/strings/TestaStrings.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="738286104">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/deitel/problemas/Mystery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/java7/strings/TestaStrings.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="estudos-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estudos-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudos-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estudos-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudos-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estudos-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="deitel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="estudos-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="estudos-java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="deitel" type="462c0819:PsiDirectoryNode" />
+              <item name="problemas" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536876178770" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Mystery">
+    <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deitel.problemas.Mystery" />
+      <module name="estudos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="deitel.problemas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java7.strings.TestaStrings" />
+      <module name="estudos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java7.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestaStrings" />
+      <item itemvalue="Application.Mystery" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Mystery" />
+        <item itemvalue="Application.TestaStrings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="" />
+      <created>1536874444232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536874444232</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35008374" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39966556" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/java7/arquivo/TestaEntrada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java7/strings/TestaStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deitel/problemas/Mystery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
