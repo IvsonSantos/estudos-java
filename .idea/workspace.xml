@@ -2,19 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java7/repeticao/SomaDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Santo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/Egg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/InstanceInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/deitel/AutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/deitel/AutoPolicyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8/tests/JavaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/trywithresources/TryWithResourcesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/trywithresources/TryWithResourcesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FourWheeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/FourWheeler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FuncionalInterfaceTipica.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/FuncionalInterfaceTipica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaDefaultMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaDefaultMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/stream/TestaStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/TestaStreams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deitel/problemas/JurosCompostos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deitel/problemas/JurosCompostos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/TestaCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/TestaSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/Servidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/chat/Servidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/RegistroDeMensagens.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/RegistroDeMensagens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/time/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/time/TimeTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,49 +31,55 @@
     <session id="738286104">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.109" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.109" value="2" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="146" />
+          <entry key="java" value="700" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="146" />
+          <entry key="JAVA" value="700" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/java7/repeticao/SomaDois.java">
+        <entry file="file://$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/InstanceInitializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="208">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/deitel/problemas/JurosCompostos.java">
+        <entry file="file://$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/Egg.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+            <state relative-caret-position="304">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#92#93#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -83,6 +93,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -92,14 +107,23 @@
         <option value="$PROJECT_DIR$/src/java7/strings/TestaStrings.java" />
         <option value="$PROJECT_DIR$/src/java7/repeticao/SomaDois.java" />
         <option value="$PROJECT_DIR$/src/deitel/problemas/JurosCompostos.java" />
+        <option value="$PROJECT_DIR$/src/java8/tests/JavaTest.java" />
+        <option value="$PROJECT_DIR$/src/java8/certificacao/Escopo01.java" />
+        <option value="$PROJECT_DIR$/src/java8/certificacao/Escopo.java" />
+        <option value="$PROJECT_DIR$/src/java8/deitel/AutoPolicyTest.java" />
+        <option value="$PROJECT_DIR$/src/java8/deitel/AutoPolicy.java" />
+        <option value="$PROJECT_DIR$/src/java8/certificacao/Escopo02.java" />
+        <option value="$PROJECT_DIR$/src/java8/certificacao/InstanceInitializer.java" />
+        <option value="$PROJECT_DIR$/src/java8/certificacao/Egg.java" />
+        <option value="$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/Egg.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="698" />
+    <option name="x" value="-1649" />
+    <option name="y" value="151" />
+    <option name="width" value="1026" />
+    <option name="height" value="554" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -107,18 +131,14 @@
         <expanded-state>
           <State />
           <State>
-            <id>Android</id>
-          </State>
-          <State>
-            <id>CorrectnessLintAndroid</id>
-          </State>
-          <State>
-            <id>LintAndroid</id>
-          </State>
-          <State>
-            <id>PerformanceLintAndroid</id>
+            <id>Spelling</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -131,7 +151,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,25 +168,30 @@
               <item name="estudos-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="estudos-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="deitel" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="estudos-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="estudos-java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="deitel" type="462c0819:PsiDirectoryNode" />
-              <item name="problemas" type="462c0819:PsiDirectoryNode" />
+              <item name="java8" type="462c0819:PsiDirectoryNode" />
+              <item name="instanceinitializer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536878946966" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537918333464" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java8.certificacao" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,13 +205,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JurosCompostos">
-    <configuration name="JurosCompostos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitel.problemas.JurosCompostos" />
+  <component name="RunManager" selected="Application.Egg">
+    <configuration name="AutoPolicyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.deitel.AutoPolicyTest" />
       <module name="estudos-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitel.problemas.*" />
+          <option name="PATTERN" value="java8.deitel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mystery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deitel.problemas.Mystery" />
+    <configuration name="Egg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.certificacao.instanceinitializer.Egg" />
       <module name="estudos-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="deitel.problemas.*" />
+          <option name="PATTERN" value="java8.certificacao.instanceinitializer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SomaDois" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java7.repeticao.SomaDois" />
+    <configuration name="Escopo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.certificacao.Escopo" />
       <module name="estudos-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java7.repeticao.*" />
+          <option name="PATTERN" value="java8.certificacao.instanceinitializer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,12 +245,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java7.strings.TestaStrings" />
+    <configuration name="Escopo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.certificacao.Escopo02" />
       <module name="estudos-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java7.strings.*" />
+          <option name="PATTERN" value="java8.certificacao.instanceinitializer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InstanceInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.certificacao.instanceinitializer.InstanceInitializer" />
+      <module name="estudos-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8.certificacao.instanceinitializer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,20 +272,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestaStrings" />
-      <item itemvalue="Application.Mystery" />
-      <item itemvalue="Application.SomaDois" />
-      <item itemvalue="Application.JurosCompostos" />
+      <item itemvalue="Application.Escopo" />
+      <item itemvalue="Application.Escopo02" />
+      <item itemvalue="Application.AutoPolicyTest" />
+      <item itemvalue="Application.InstanceInitializer" />
+      <item itemvalue="Application.Egg" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JurosCompostos" />
-        <item itemvalue="Application.SomaDois" />
-        <item itemvalue="Application.Mystery" />
-        <item itemvalue="Application.TestaStrings" />
+        <item itemvalue="Application.Egg" />
+        <item itemvalue="Application.InstanceInitializer" />
+        <item itemvalue="Application.AutoPolicyTest" />
+        <item itemvalue="Application.Escopo02" />
+        <item itemvalue="Application.Escopo" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="3" BundledDictionary0="android.dic" BundledDictionary1="jetbrains.dic" BundledDictionary2="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -271,34 +312,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-1928" y="-95" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12899786" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.29815745" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3484087" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39865997" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16611661" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3979933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.29815745" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32998326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -313,17 +354,16 @@
           <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java8/tests/JavaTest.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/java7/arquivo/TestaEntrada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/java7/strings/TestaStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -352,6 +392,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/deitel/problemas/JurosCompostos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/java7/repeticao/SomaDois.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
@@ -359,10 +406,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/deitel/problemas/JurosCompostos.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/LineNumberReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        <state relative-caret-position="190">
+          <caret line="198" column="18" selection-start-line="198" selection-start-column="18" selection-end-line="198" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java7/arquivo/TestaEntrada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/tests/JavaTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/certificacao/Escopo.java" />
+    <entry file="file://$PROJECT_DIR$/src/java8/certificacao/Escopo01.java" />
+    <entry file="file://$PROJECT_DIR$/src/java8/clock/TestaClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/certificacao/Escopo02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/deitel/AutoPolicyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/deitel/AutoPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#879#880#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/InstanceInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java8/certificacao/instanceinitializer/Egg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#92#93#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
