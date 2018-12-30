@@ -14,7 +14,7 @@ public class TestaConstrutor {
 	public static void main(String[] args) {
 		
 		// ERRO DE COMPILACAO
-		//TestaConstrutor t = new TestaConstrutor();
+		TestaConstrutor t = new TestaConstrutor("oi");
 	}
 
 }
