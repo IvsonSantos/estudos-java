@@ -6,7 +6,8 @@ package java7.construtores;
 public class InicializadoresComProblema {
 	
 	{
-		System.out.println(name);
+		// da erro, pois a variavel ainda nao foi criada
+		//System.out.println(name);
 	}
 	
 	private String name = "Fluffy";
