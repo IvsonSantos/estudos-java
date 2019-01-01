@@ -10,4 +10,5 @@ public class Estatico {
 		System.out.println(x);
 	}
 	
+	
 }
