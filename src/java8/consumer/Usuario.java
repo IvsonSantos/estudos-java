@@ -27,4 +27,8 @@ public class Usuario {
 	public boolean isModerador() {
 		return moderador;
 	}
+
+	public String toString() {
+		return "Usuario " + nome;
+	}
 }
