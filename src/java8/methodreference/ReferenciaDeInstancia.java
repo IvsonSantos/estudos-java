@@ -10,7 +10,7 @@ public class ReferenciaDeInstancia {
 		 * Dada uma referência a um objeto, podemos criar um method reference que
 		 * invoque um de seus métodos
 		 */
-		Usuario ivson = new Usuario("Ivson", 10);
+		Usuario ivson = new Usuario("Ivson", 10, false);
 		
 		Runnable bloco = ivson::tornaModerador;
 		Runnable bloco2 = () -> ivson.tornaModerador();

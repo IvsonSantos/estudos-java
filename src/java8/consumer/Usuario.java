@@ -10,10 +10,10 @@ public class Usuario {
 		this.nome = nome;
 	}
 
-	public Usuario(String nome, int pontos) {
+	public Usuario(String nome, int pontos, boolean moderador) {
 		this.pontos = pontos;
 		this.nome = nome;
-		this.moderador = false;
+		this.moderador = moderador;
 	}
 
 	public String getNome() {

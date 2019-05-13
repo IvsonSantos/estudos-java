@@ -10,9 +10,9 @@ public class PredicateTest {
 
 	public static void main(String[] args) {
 
-		Usuario user1 = new Usuario("Paulo Silveira", 150);
-		Usuario user2 = new Usuario("Rodrigo Turini", 120);
-		Usuario user3 = new Usuario("Guilherme Silveira", 190);
+		Usuario user1 = new Usuario("Paulo Silveira", 150, false);
+		Usuario user2 = new Usuario("Rodrigo Turini", 120, false);
+		Usuario user3 = new Usuario("Guilherme Silveira", 190, false);
 
 		/*
 		 * Há um detalhe aqui: o removeIf invoca o remove de uma coleção, então ela não
