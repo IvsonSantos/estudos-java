@@ -1,7 +1,5 @@
 package java7.prova;
 
-import java.util.*;
-
 /*
 class MultiClasse {
 
@@ -15,8 +13,7 @@ class MultiClasse {
 	 }
 }
 */
-
-import java.io.*;
+import java.io.File;
 
 class E {
 	public boolean exists(String name) {

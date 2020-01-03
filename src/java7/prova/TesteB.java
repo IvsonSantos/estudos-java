@@ -4,6 +4,7 @@ public class TesteB {
 
 	static int i = 3;
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] a) {
 		for (new TesteB().i = 10; new TesteB().i < 100; new TesteB().i++) {
 			System.out.println(i);

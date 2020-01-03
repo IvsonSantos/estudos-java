@@ -4,7 +4,7 @@ class Test {
 
 	int Test = 305;
 
-	void Test() {
+	Test() {
 		System.out.println(Test);
 	}
 

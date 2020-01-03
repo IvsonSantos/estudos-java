@@ -11,6 +11,7 @@ public class TestaConstrutor {
 		System.out.println(oi);
 	}
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		// ERRO DE COMPILACAO

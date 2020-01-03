@@ -2,6 +2,7 @@ package java7.variaveis;
 
 public class Iniciar {
 
+	@SuppressWarnings("unused")
 	public int notValid() {
 		int y = 10;
 		int x;

@@ -2,6 +2,7 @@ package exercises;
 
 public class TestaMetodo {
 
+	@SuppressWarnings("unused")
 	void method(int a) {
 		double x;
 		if (a > 1) {

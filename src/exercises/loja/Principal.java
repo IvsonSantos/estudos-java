@@ -14,6 +14,7 @@ import java.util.stream.Collectors;
 
 public class Principal {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		Customer paulo = new Customer("Paulo Silveira");

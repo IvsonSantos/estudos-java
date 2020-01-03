@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Company {
 
+	@SuppressWarnings("unused")
 	private void addManager(Person person, Person manager) {
 
 		if (manager instanceof Person) {

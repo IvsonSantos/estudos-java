@@ -5,6 +5,7 @@ import java.util.TreeSet;
 
 public class UmAMilTreeSet {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		Set<Integer> lista = new TreeSet<>();

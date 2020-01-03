@@ -15,6 +15,7 @@ import java.security.SecureRandom;
  */
 public class AleatorioSeguro {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		SecureRandom secure = new SecureRandom();

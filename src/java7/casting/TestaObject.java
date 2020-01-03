@@ -10,6 +10,7 @@ public class TestaObject {
 	 * @param args
 	 */
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		// nós garantimos ao java que nosso Objeto object era um Gerente com o casting,
