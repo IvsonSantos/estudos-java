@@ -2,6 +2,7 @@ package java8.functionalInterface.exemplo;
 
 public class ValidatorTest {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		/*

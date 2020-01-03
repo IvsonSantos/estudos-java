@@ -1,12 +1,12 @@
 package java8.methodreference;
 
-import java.util.function.BiFunction;
 import java.util.function.Function;
 
 import java8.consumer.Usuario;
 
 public class ConstrutorReferenceTest {
 	
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		Function<String, Usuario> u = Usuario::new;

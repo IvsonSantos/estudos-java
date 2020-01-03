@@ -12,6 +12,7 @@ import java.util.Locale;
 
 public class LocalDateTest {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		// construtor

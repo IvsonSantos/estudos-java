@@ -7,6 +7,7 @@ import java8.codigos.Usuario;
 
 public class FiltrandoStream {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		Usuario user1 = new Usuario("Paulo Silveira", 150);

@@ -8,6 +8,7 @@ public class SortingTest {
 
 	public static void main(String[] args) {
 
+		@SuppressWarnings("unused")
 		List<String> p = Arrays.asList("p1", "p2", "p3");
 
 		/*

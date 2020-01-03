@@ -4,6 +4,7 @@ import java8.consumer.Usuario;
 
 public class ReferenciaDeInstancia {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 
 		/**
