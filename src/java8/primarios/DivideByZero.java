@@ -19,5 +19,11 @@ public class DivideByZero {
 		double negativeInfinity = -100 / 0.0;
 		// número não definido (NaN)
 		System.out.println(positiveInfinity + negativeInfinity);
+		
+		
+		//System.out.println(3 / 0);		// erro
+    	System.out.println(3 / 0.0);	// Inf
+    	System.out.println(3.0 / 0);	//
+    	System.out.println(-3.0 / 0);	//
 	}
 }
