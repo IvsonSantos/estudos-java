@@ -18,8 +18,9 @@ public class ComparaString {
 		} else {
 			System.out.println("consideramos diferentes no critÃ©rio de igualdade");
 		}
-		
-		// neste caso o JVM entende que é o mesmo objeto na HEAP, pois strings sao imutaveis
+
+		// neste caso o JVM entende que é o mesmo objeto na HEAP, pois strings sao
+		// imutaveis
 		String one = "hello";
 		String two = "hello";
 		if (one == two) {
@@ -27,7 +28,7 @@ public class ComparaString {
 		} else {
 			System.out.println("referÃªncias para objetos diferentes!");
 		}
-		
+
 		String a = new Integer(76).toString();
 		String b = "76";
 		if (a == b) {
@@ -35,7 +36,7 @@ public class ComparaString {
 		} else {
 			System.out.println("referÃªncias para objetos diferentes!");
 		}
-		
+
 		String c = new Integer(76).toString().intern();
 		String d = "76";
 		if (c == d) {
