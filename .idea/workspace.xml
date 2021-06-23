@@ -1,56 +1,260 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="">
+    <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="Updated">
+      <change afterPath="$PROJECT_DIR$/src/exercises/fibonacci/Fibo1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/AccountTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/StudentTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/array/BarChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/array/BarChart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/array/InitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/array/InitArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/array/RollDice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/array/RollDice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/deitel/classes/Time1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/classes/Time1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/exception/AssertTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/exception/DesempilhamentoThrowable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/exception/DesempilhamentoThrowable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/deitel/exception/DivideByZeroWithExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/exception/DivideByZeroWithExceptionHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/finance/BasePlusCommissionEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/finance/BasePlusCommissionEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/finance/CommissionEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/finance/CommissionEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/finance/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/finance/Employee.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/deitel/finance/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/finance/EmployeeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/ClassAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/CrescimentoMundial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Criptografia.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Soma.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercises/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/finance/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/finance/Interest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Analysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/Analysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/JurosCompostos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/JurosCompostos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/Mystery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/Mystery2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Mystery3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/Mystery3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Palindromo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/Palindromo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Quadrado.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/problemas/Quadrado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/Dialog1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/swing/Dialog1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/DrawPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/swing/DrawPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/DrawPanelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/swing/DrawPanelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/swing/NameDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/swing/NameDialog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercises/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercises/NaoCompilaTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exercises/TestaArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/Frequencia.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/Frequencia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/Interest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/Interest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercises/TestaMetodo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/TestaMetodo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercises/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/baralho/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/baralho/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/baralho/DeckOfCards.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/baralho/DeckOfCards.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/baralho/DeckOfCardsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/baralho/DeckOfCardsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/loja/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/loja/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/loja/Payment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/loja/Payment.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercises/loja/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/loja/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/loja/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/loja/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/loja/Subscription.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/loja/Subscription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/performance/ComparadorInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/performance/ComparadorInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/performance/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/performance/ContaCorrente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/performance/TestaMapa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/performance/TestaMapa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/performance/TestaPerformance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/performance/TestaPerformance.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/exercises/performance/UmAMilTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/performance/UmAMilTreeSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/varargs/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/varargs/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/varargs/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/varargs/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/varargs/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/varargs/C.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/interview/Altran.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interview/Altran.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/interview/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interview/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interview/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interview/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interview/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interview/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arquivo/TestaEntrada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arquivo/TestaEntrada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arquivo/TestaSaida.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arquivo/TestaSaida.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/arraylist/ArrayListCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arraylist/ArrayListCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arrays/InitArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arrays/InitArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arrays/PassArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arrays/PassArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arrays/arraymultidimensional/GradeBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arrays/arraymultidimensional/GradeBook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/casting/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/casting/Conta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/casting/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/casting/Gerente.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/casting/TestaObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/casting/TestaObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/ClasseAnonima$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/ClasseAnonima$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/ClasseAnonima$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/ClasseAnonima$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/ClasseAnonima.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/ClasseAnonima.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/ClasseUM.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/ClasseUM.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/ITeste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/ITeste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/classe/Multiplas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/classe/Multiplas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/CollectionsLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/CollectionsLib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/TestaArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/TestaCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/TestaMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/collections/TestaSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/collections/TestaSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/compilador/Problema.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/compilador/Problema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/concurrent/ProcessadorThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/concurrent/ProcessadorThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/construtores/Inicializadores.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/construtores/Inicializadores.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/construtores/InicializadoresComProblema.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/construtores/InicializadoresComProblema.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/construtores/TestaConstrutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/construtores/TestaConstrutor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/numeros/FormatoNumero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/primitivos/Nulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/exception/ExcecaoPersonalizada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/exception/ExcecaoPersonalizada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/exception/TesteErro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/exception/TesteErro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/locale/LocaleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/locale/LocaleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/paralelo/Programa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/paralelo/Programa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/paralelo/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/paralelo/Teste.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/prova/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/Estatico.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/Estatico.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/prova/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/TesteA.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/TesteA.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/prova/TesteB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/TesteB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/TesteD.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/TesteD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/repeticao/SomaDois.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/repeticao/SomaDois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/scope/Escopo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/scope/Escopo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/securerandom/AleatorioSeguro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/securerandom/AleatorioSeguro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/set/IteratorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/set/IteratorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/Servidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/chat/Cliente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Recebedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/chat/Recebedor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/Servidor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/chat/Servidor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/sockets/chat/TrataCliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/sockets/chat/TrataCliente.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/strings/ComparaString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/ComparaString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/StringLib.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/StringLib.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/TestaForString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/TestaForString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/TestaStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/TestaStrings.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java7/strings/TstaSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/TstaSplit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java7/variaveis/Iniciar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/certificacao/instanceinitializer/Egg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/certificacao/instanceinitializer/InstanceInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/ternario/TestaCondicional.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/ternario/TestaCondicional.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/ClasseAnomina.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/ClasseAnomina.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/GeraNumero.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/GeraNumero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/TestaThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/TestaThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/basico/BarraDeProgresso.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/basico/BarraDeProgresso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/basico/GeraPDF.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/basico/GeraPDF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/basico/MeuPrograma.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/basico/MeuPrograma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/basico/Programa.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/basico/Programa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/basico/ProgramaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/basico/ProgramaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/exemplo/ExemploThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/exemplo/ExemploThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/exemplo/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/exemplo/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/join/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/join/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/join/ThreadJoining.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/join/ThreadJoining.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/multithread/PrintDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/multithread/PrintDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/multithread/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/multithread/TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/multithread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/multithread/ThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/multithreadsincronizado/PrintDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/multithreadsincronizado/PrintDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/multithreadsincronizado/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/multithreadsincronizado/TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/multithreadsincronizado/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/multithreadsincronizado/ThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/ProduzMensagens.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/ProduzMensagens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/RegistroDeMensagens.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/naothreadsafe/RegistroDeMensagens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/semaphore/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/semaphore/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/semaphore/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/semaphore/SemaphoreDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/semaphore/Shared.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/semaphore/Shared.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/teste/ProduzMensagens.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/teste/ProduzMensagens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/teste/RegistroDeMensagens.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/teste/RegistroDeMensagens.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/tratamento/ClassTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/tratamento/ClassTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/tratamento/ClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/tratamento/ClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/tratamento/ClassWithThreadingProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/tratamento/ClassWithThreadingProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/withousincronization/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/withousincronization/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/withousincronization/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/withousincronization/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/withousincronization/Train.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/withousincronization/Train.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/withsincronization/GFG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/withsincronization/GFG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/withsincronization/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/withsincronization/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/thread/withsincronization/Train.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/thread/withsincronization/Train.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/trywithresources/TryWithResourcesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/trywithresources/TryWithResourcesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/varargs/VarargsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/varargs/VarargsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/annotations/RelatorioController.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/annotations/RelatorioController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/annotations/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/annotations/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/annotations/Roles.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/annotations/Roles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/annotations/RolesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/annotations/RolesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/arrays/ArrayForEachTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/arrays/ArrayForEachTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/arrays/PrintList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/arrays/PrintList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1$Fatorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1$Fatorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print$GerarNumeroAleatorio.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print$GerarNumeroAleatorio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/assincrono/Exemplo1Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/clock/TestaClock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/clock/TestaClock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/codigos/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/codigos/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Filtrando.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/colecoes/Filtrando.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/colecoes/Ordenacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/comparable/ComparatorTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/comparable/ComparatorTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/comparable/ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/comparable/ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/comparable/ComparingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/comparable/ComparingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/comparable/Java8Comparator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/comparable/Java8Comparator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/comparable/Java8Comparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/comparable/Java8Comparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/Capitulo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/Capitulo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/ConsumerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/ConsumerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/ConsumidorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/ConsumidorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/Mostrador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/Mostrador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/MostradorTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/MostradorTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/MostradorTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/MostradorTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/MostradorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/MostradorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/predicate/PredicateTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/predicate/PredicateTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/consumer/predicate/PredicateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/consumer/predicate/PredicateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/CompararDatas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/CompararDatas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataAtual.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/DataAtual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/DataTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataWithCalendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/DataWithCalendar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataWithDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/DataWithDate.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataWithJava8LocalDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/DataWithJava8LocalDateTime.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/datas/LocalDateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/LocalDateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/StringToDate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/StringToDate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/TestaDatas.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/TestaDatas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/Formula.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/defaultmethods/Formula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/defaultmethods/TestaInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/deitel/AutoPolicy.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/deitel/AutoPolicy.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/deitel/AutoPolicyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/deitel/AutoPolicyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/file/FileComStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/file/FileComStreams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/file/TestaFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/file/TestaFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Defaulable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/Defaulable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/DefaultableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/DefaultableImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FourWheeler.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/FourWheeler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FuncionalInterfaceTipica.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/FuncionalInterfaceTipica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/FunctionalInterfaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/FunctionalInterfaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/IFTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/IFTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/InterfaceDeclarada.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/InterfaceDeclarada.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaDefaultMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaDefaultMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/TestaInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/Validator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/Validator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaDiferenca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$GreetingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester$MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2$GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2$GreetingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/LambdaTester2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/lambdas/TestLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/lambdas/TestLambda.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/map/GroupingMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/GroupingMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/map/MapMaiorPontos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/MapMaiorPontos.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/map/MapMediaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/MapMediaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/map/Mapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/Mapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/map/TestaMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/TestaMap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/methodreference/ConstrutorReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/methodreference/ConstrutorReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/methodreference/MethodReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/methodreference/MethodReferenceTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/methodreference/ReferenciaDeInstancia.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/methodreference/ReferenciaDeInstancia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/optional/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/optional/Curso.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/optional/Matricula.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/optional/Matricula.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/optional/OptionalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/optional/OptionalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/pararellstream/TestaParallelStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/pararellstream/TestaParallelStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/reflection/TestaReflection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/reflection/TestaReflection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/reflection/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/reflection/Usuario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/Sorting$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/sorting/Sorting$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/Sorting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/sorting/Sorting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/sorting/SortingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/sorting/SortingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/TestaSorte.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/sorting/TestaSorte.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/stream/AcharUmDoStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/AcharUmDoStream.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/stream/FiltrandoStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/FiltrandoStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/FiltrarEOrdenar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/FiltrarEOrdenar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/IteratorStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/IteratorStream.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/stream/ListaPontos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/ListaPontos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/MapReduce.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/MapReduce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/MaximaPontuacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/MaximaPontuacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/PrintandoUmStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/PrintandoUmStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamCriterio.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamCriterio.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamImutavelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamImutavelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8/tests/JavaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams$Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/Streams$Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams$Task.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/Streams$Task.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/Streams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/Streams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/TestaStreams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/TestaStreams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/TestandoStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/TestandoStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/supplier/fibonacci/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/supplier/fibonacci/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/supplier/fibonacci/TestaFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/supplier/fibonacci/TestaFibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/time/DatasImportantesNaoTestavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/time/DatasImportantesNaoTestavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/time/TimeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/time/TimeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/trywithresources/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/trywithresources/TryWithResources.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +381,7 @@
       <recent name="java8.certificacao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Egg">
+  <component name="RunManager" selected="Application.Fibo1">
     <configuration name="AutoPolicyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8.deitel.AutoPolicyTest" />
       <module name="estudos-java" />
@@ -204,8 +408,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escopo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.certificacao.Escopo" />
+    <configuration name="Escopo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8.certificacao.Escopo02" />
       <module name="estudos-java" />
       <extension name="coverage">
         <pattern>
@@ -217,12 +421,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escopo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8.certificacao.Escopo02" />
+    <configuration name="Fibo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercises.fibonacci.Fibo1" />
       <module name="estudos-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8.certificacao.instanceinitializer.*" />
+          <option name="PATTERN" value="exercises.fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,16 +451,16 @@
       <item itemvalue="Application.AutoPolicyTest" />
       <item itemvalue="Application.Egg" />
       <item itemvalue="Application.Escopo02" />
-      <item itemvalue="Application.Escopo" />
       <item itemvalue="Application.InstanceInitializer" />
+      <item itemvalue="Application.Fibo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fibo1" />
         <item itemvalue="Application.Egg" />
         <item itemvalue="Application.InstanceInitializer" />
         <item itemvalue="Application.AutoPolicyTest" />
         <item itemvalue="Application.Escopo02" />
-        <item itemvalue="Application.Escopo" />
       </list>
     </recent_temporary>
   </component>
@@ -272,6 +476,21 @@
       <option name="presentableId" value="Default" />
       <updated>1536874444232</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated">
+      <created>1624449022640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624449022640</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated">
+      <created>1624449044214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624449044214</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -315,6 +534,21 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
