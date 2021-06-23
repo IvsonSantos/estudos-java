@@ -1,3 +1,17 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
 ### STS ###
 .apt_generated
 .classpath
@@ -5,6 +19,19 @@
 .project
 .settings
 .springBeans
+.sts4-cache
 
-*.class
-.class
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/bin/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/

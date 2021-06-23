@@ -2,14 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d82ebd9-334a-4096-af2e-e471bc364579" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exercises/TesteArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/varargs/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/varargs/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercises/varargs/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/classes/Time1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/classes/Time1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/exception/AssertTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/exception/DivideByZeroWithExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/exception/DivideByZeroWithExceptionHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/finance/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/deitel/finance/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/ClassAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/CrescimentoMundial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Criptografia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/deitel/problemas/Soma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/NaoCompilaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/TestaArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/TestaMetodo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/TestaMetodo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/Teste.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/Teste.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/loja/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/loja/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exercises/performance/UmAMilTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exercises/performance/UmAMilTreeSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interview/Altran.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interview/Altran.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interview/Company.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interview/Company.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/arraylist/ArrayListCollection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/arraylist/ArrayListCollection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/casting/TestaObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/casting/TestaObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/construtores/TestaConstrutor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/construtores/TestaConstrutor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/numeros/FormatoNumero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/primitivos/Nulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/E.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/E.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/prova/TesteB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/prova/TesteB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/securerandom/AleatorioSeguro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/securerandom/AleatorioSeguro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/ComparaString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/ComparaString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/strings/TstaSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java7/strings/TstaSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java7/variaveis/Iniciar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/certificacao/instanceinitializer/Egg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/certificacao/instanceinitializer/InstanceInitializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/DataWithJava8LocalDateTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/DataWithJava8LocalDateTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/datas/LocalDateTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/datas/LocalDateTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/deitel/AutoPolicyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/deitel/AutoPolicyTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/functionalInterface/exemplo/ValidatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/map/GroupingMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/GroupingMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/map/MapMediaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/map/MapMediaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/methodreference/ConstrutorReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/methodreference/ConstrutorReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/methodreference/ReferenciaDeInstancia.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/methodreference/ReferenciaDeInstancia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/sorting/SortingTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/sorting/SortingTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/AcharUmDoStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/AcharUmDoStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/FiltrandoStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/FiltrandoStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/ListaPontos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/ListaPontos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/stream/StreamImutavelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8/stream/StreamImutavelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8/tests/JavaTest.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/bin/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,43 +59,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/varargs/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/exercises/varargs/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#58#59#0" expanded="true" />
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercises/varargs/C.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,6 +102,7 @@
     <option name="width" value="1080" />
     <option name="height" value="622" />
   </component>
+  <component name="ProjectId" id="1uLdNQ6sMKWZuNr3TmxGWKZgtPh" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -155,6 +161,10 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537918333464" />
@@ -166,18 +176,6 @@
       <recent name="exercises.varargs" />
       <recent name="java8.certificacao" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.Egg">
     <configuration name="AutoPolicyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -262,7 +260,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="3" BundledDictionary0="android.dic" BundledDictionary1="jetbrains.dic" BundledDictionary2="english.dic" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -324,13 +322,11 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java7/repeticao/SomaDois.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/java8/tests/JavaTest.java</url>
           <line>6</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
