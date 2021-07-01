@@ -14,5 +14,28 @@ public class SJtest {
         sj.add("alpha").add("theta").add("gama");
         res = sj.toString();
         System.out.println(res);
+
+        sj = new StringJoiner("], [", "[", "]");
+        sj.add("alpha").add("theta").add("gama");
+        res = sj.toString();
+        System.out.println(res);
+
+        sj = new StringJoiner(", ");
+        res = sj.toString();
+        System.out.println(res);
+
+        sj = new StringJoiner(", ", "{", "}");
+        res = sj.toString();
+        System.out.println(res);
+
+        sj = new StringJoiner(", ");
+        sj.setEmptyValue("vazio");
+        res = sj.toString();
+        System.out.println(res);
+
+        sj = new StringJoiner(", ", "{", "}");
+        sj.setEmptyValue("vazio");
+        res = sj.toString();
+        System.out.println(res);
     }
 }
