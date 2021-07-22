@@ -16,8 +16,7 @@ public class Comparando {
 			}
 		};
 		
-
-		Comparator<String> compLambda  = (String o1, String o2) -> Integer.compare(o1.length(), o2.length()); 
+		Comparator<String> compLambda  = (String o1, String o2) -> Integer.compare(o1.length(), o2.length());
 
 		// other way
 		Comparator<Integer> maior = Integer::compare;
