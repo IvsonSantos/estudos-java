@@ -1,6 +1,7 @@
 package java8.lambdas;
 
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 import java.util.function.Consumer;
 
@@ -18,6 +19,12 @@ public class Example {
 
         usuarios.forEach(msg.andThen(imprime));
 
+
+        //Para filtrar os 10 usuários commais pontos e torná-losmoderadores, podemos agora
+        //fazer o seguinte código:
+        usuarios.sort(Comparator.comparing(Usuario::getPontos).reversed());
+        usuarios.subList(0,10)
+                .forEach(Usuario::tornaModerador);
 
     }
 }
